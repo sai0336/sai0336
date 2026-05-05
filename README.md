@@ -56,13 +56,3 @@ From wearable BLE devices to animated display systems — I love turning ideas i
 
 ---
 
-## 📊 GitHub Stats
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai0336&show_icons=true&theme=tokyonight)
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Chavan-blue?logo=linkedin)](https://linkedin.com/in/saichavan)
-[![Email](https://img.shields.io/badge/Email-sai2chavan%40gmail.com-red?logo=gmail)](mailto:sai2chavan@gmail.com)
