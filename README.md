@@ -1,6 +1,6 @@
 # Sai Chavan
 
-B.Sc. IT student from Mumbai who builds embedded systems and IoT projects. Not the kind of student who just does assignments — I actually spend my free time soldering components, flashing firmware, and figuring out why my circuit isn't working at 11pm.
+B.Sc. IT student from Mumbai who builds embedded systems and IoT projects. Not the kind of student who just does assignments — I actually spend my free time soldering components, flashing firmware.
 
 My interest is in hardware that does something real. Wireless devices, sensor systems, automation — things you can physically interact with, not just run on a laptop.
 
@@ -28,7 +28,7 @@ Circuit design, soldering, breadboard prototyping, sensor integration
 ## Projects
 
 ### Smart Glove — ESP32 BLE Wireless Mouse
-Wearable ESP32 glove that controls a PC cursor through hand movement over BLE. Uses an MPU-6050 gyroscope for motion tracking and copper tape contacts as capacitive click buttons. Presented at Tech-Mania 2K26 inter-college competition.
+Wearable ESP32 glove that controls a PC cursor through hand movement over BLE. Uses an MPU-6050 gyroscope for motion tracking and copper tape contacts as capacitive click buttons. 
 
 ### Air Quality Monitor with Real-Time Clock
 Dual Arduino project that reads temperature, humidity, and air quality in real time and displays it across three screens — clock, temperature, and air quality — on a small TFT display. Arduino Nano handles the sensors, Arduino Uno drives the display.
@@ -37,7 +37,7 @@ Dual Arduino project that reads temperature, humidity, and air quality in real t
 A wireless gamepad built on ESP32 that connects to PC and Android as a HID device. Uses capacitive touch sensors as buttons and a vibration motor for haptic feedback. No drivers needed.
 
 ### Remote Plant Watering System
-IoT system that lets me water plants at my family home in Ratnagiri from Mumbai, about 400 km away. ESP32 connected to a pump and soil moisture sensor, controlled through the Blynk app over WiFi.
+IoT system that lets me water plants at my home in Ratnagiri from Mumbai, about 400 km away. ESP32 connected to a pump and soil moisture sensor, controlled through the Blynk app over WiFi.
 
 ### Ghost — AI Voice Assistant
 Voice assistant built in Python that uses multiple free AI providers (Groq, Cerebras, SambaNova, Cohere) with automatic fallback. Supports weather, news, YouTube, camera vision via Gemini, and basic PC control.
