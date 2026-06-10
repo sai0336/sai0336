@@ -1,58 +1,23 @@
-# Hi there, I'm Sai Chavan! 👋
+Sai Chavan
+I'm a B.Sc. IT student from Mumbai who builds embedded systems and IoT projects. Not the kind of student who just does assignments — I actually spend my free time soldering components, flashing firmware, and figuring out why my circuit isn't working at 11pm.
+My interest is in hardware that does something real. Wireless devices, sensor systems, automation — things you can physically interact with, not just run on a laptop.
 
-### 🔧 IoT & Embedded Systems Developer | Arduino • ESP32 • Robotics
+What I work with
+Microcontrollers: ESP32, Arduino Uno, Arduino Nano
+Languages: C, C++, Python, Java
+Protocols: BLE, WiFi, I2C, SPI, UART, MQTT
+IoT Platforms: Blynk, ThingSpeak
+Hardware: Circuit design, soldering, breadboard prototyping, sensor integration
 
-I'm a B.Sc. IT student from Mumbai passionate about building real-world hardware projects.
-From wearable BLE devices to animated display systems — I love turning ideas into working hardware.
+Projects
+Smart Glove — Wearable ESP32 glove that controls a PC cursor through hand movement over BLE. Uses an MPU-6050 gyroscope for motion tracking and copper tape contacts as capacitive click buttons. Presented at Tech-Mania 2K26 inter-college competition.
+Air Quality Monitor with Real-Time Clock — Dual Arduino project that reads temperature, humidity, and air quality in real time and displays it across three screens — clock, temperature, and air quality — on a small TFT display. Arduino Nano handles the sensors, Arduino Uno drives the display.
+ESP32 BLE Gamepad — A wireless gamepad built on ESP32 that connects to PC and Android as a HID device. Uses capacitive touch sensors as buttons and a vibration motor for haptic feedback. No drivers needed.
+Remote Plant Watering System — IoT system that lets me water plants at my family home in Ratnagiri from Mumbai, about 400 km away. ESP32 connected to a pump and soil moisture sensor, controlled through the Blynk app over WiFi.
+Ghost — AI Voice Assistant — Voice assistant built in Python that uses multiple free AI providers (Groq, Cerebras, SambaNova, Cohere) with automatic fallback. Supports weather, news, YouTube, camera vision via Gemini, and basic PC control.
 
----
-
-## 🛠️ Skills
-
-| Category | Tools & Tech |
-|---|---|
-| Microcontrollers | Arduino Uno, Arduino Nano, ESP32 |
-| Languages | C, C++, Python, Java |
-| IoT Platforms | Blynk, ThingSpeak, MQTT |
-| Protocols | BLE, WiFi, I2C, SPI, UART |
-| Sensors | DHT11, MQ135, DS3231 RTC, MPU-6050 |
-| Hardware | PCB Design basics, Soldering, Prototyping |
-
----
-
-## 🚀 Featured Projects
-
-### 🧤 Smart Glove — ESP32 BLE Wireless Mouse
-> ESP32 + MPU-6050 + BLE + Capacitive Touch + 2S Li-ion Battery
-
-- Wearable wireless mouse with 3 modes: Air Mouse, 3D Lab, Map Explorer
-- Copper tape capacitive contacts for clicks
-- Presented at **Tech-Mania 2K26** inter-college competition
-
----
-
-### 👀 Mimo Eyes — Dual Arduino Animated Display
-> Arduino Nano + Arduino Uno + TFT + DHT11 + MQ135 + DS3231 RTC
-
-- Nano = sensor node | Uno = animated TFT display controller
-- Animated character with 6+ expressions + gesture-based navigation
-- Shows Clock, Temperature & Air Quality screens with boot animation
-
----
-
-### 🎮 ESP32 BLE Gamepad
-> ESP32 + BLE HID + Capacitive Touch + Vibration Motor
-
-- Wireless HID gamepad — works on PC & Android without drivers
-- Tactile haptic feedback via vibration motor
-
----
-
-### 🌱 Remote Plant Watering System
-> ESP32 + WiFi + Blynk + Water Pump
-
-- Control plant watering from 400+ km away (Mumbai → Ratnagiri)
-- Automated via Blynk IoT app with soil moisture monitoring
-
----
-
+Currently
+Third year B.Sc. IT student. Looking for an online internship in embedded systems or IoT where I can work on actual projects.
+Open to collaboration on hardware projects too.
+Contact: sai2chavan@gmail.com
+LinkedIn: https://www.linkedin.com/in/sai-santosh-chavan/
