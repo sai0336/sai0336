@@ -1,53 +1,64 @@
 # Sai Chavan
 
-B.Sc. IT student from Mumbai who builds embedded systems and IoT projects. Not the kind of student who just does assignments — I actually spend my free time soldering components, flashing firmware.
+**Software & Embedded Systems Developer** | B.Sc. IT Student | Mumbai, India
 
-My interest is in hardware that does something real. Wireless devices, sensor systems, automation — things you can physically interact with, not just run on a laptop.
+I build **responsive web interfaces**, **Python applications**, and **hands-on electronics projects** with ESP32 and Arduino.
 
----
+My work spans software and hardware: from front-end development to Bluetooth devices, sensor integration, and embedded prototypes. I'm developing a freelance portfolio while continuing to learn through practical projects.
 
-## What I work with
+## What I can help with
 
-**Microcontrollers**
-ESP32, Arduino Uno, Arduino Nano
+- **Web development:** Responsive landing pages, business websites, and front-end interfaces using HTML, CSS, JavaScript, React, and Tailwind CSS.
+- **Python:** Scripts, automation, and application prototypes.
+- **Embedded systems:** ESP32/Arduino firmware prototypes, sensor integration, BLE, and IoT experiments.
 
-**Languages**
-C, C++, Python, Java
+> **Portfolio status:** My public repositories currently showcase more embedded and Python work than client-ready websites. I'm building a dedicated web-development demo; I won't present unfinished work as a completed client project.
 
-**Protocols**
-BLE, WiFi, I2C, SPI, UART, MQTT
+## Technical skills
 
-**IoT Platforms**
-Blynk, ThingSpeak
+| Area | Tools and technologies |
+| --- | --- |
+| Front-end | HTML, CSS, JavaScript, React, Tailwind CSS |
+| Programming | Python, C, C++, Java |
+| Embedded hardware | ESP32, Arduino Uno, Arduino Nano, circuit prototyping, soldering |
+| Interfaces and protocols | BLE, Wi-Fi, I2C, SPI, UART, MQTT |
+| IoT platforms | Blynk, ThingSpeak |
 
-**Hardware**
-Circuit design, soldering, breadboard prototyping, sensor integration
+## Featured projects
 
----
+### [Smart Glove — ESP32 BLE Mouse](https://github.com/sai0336/smart-glove-esp32)
 
-## Projects
+Wearable motion-controlled mouse using **ESP32**, **MPU-6050**, and **BLE HID**. The firmware includes Air Mouse, 3D Lab, and Map Explorer modes, with digital button inputs and status LEDs.
 
-### Smart Glove — ESP32 BLE Wireless Mouse
-Wearable ESP32 glove that controls a PC cursor through hand movement over BLE. Uses an MPU-6050 gyroscope for motion tracking and copper tape contacts as capacitive click buttons. 
+**Stack:** Arduino C++, ESP32, I2C, BLE HID.
 
-### Air Quality Monitor with Real-Time Clock
-Dual Arduino project that reads temperature, humidity, and air quality in real time and displays it across three screens — clock, temperature, and air quality — on a small TFT display. Arduino Nano handles the sensors, Arduino Uno drives the display.
+### [Ghost — Python AI Voice Assistant](https://github.com/sai0336/ghost-ai-voice-assistant)
 
-### ESP32 BLE Gamepad
-A wireless gamepad built on ESP32 that connects to PC and Android as a HID device. Uses capacitive touch sensors as buttons and a vibration motor for haptic feedback. No drivers needed.
+Windows-focused voice assistant exploring speech recognition, text-to-speech, AI-provider fallback, and desktop utilities. Provider access and model availability depend on the API services and credentials configured.
 
-### Remote Plant Watering System
-IoT system that lets me water plants at my home in Ratnagiri from Mumbai, about 400 km away. ESP32 connected to a pump and soil moisture sensor, controlled through the Blynk app over WiFi.
+**Stack:** Python, speech recognition, REST APIs.
 
-### Ghost — AI Voice Assistant
-Voice assistant built in Python that uses multiple free AI providers (Groq, Cerebras, SambaNova, Cohere) with automatic fallback. Supports weather, news, YouTube, camera vision via Gemini, and basic PC control.
+### [Air Quality Display with RTC](https://github.com/sai0336/air-quality-monitor-arduino)
 
----
+Two-board Arduino project: a **Nano** reads a DHT11, DS3231 clock, and MQ135 analog sensor; an **Uno** renders the readings on a TFT shield. The gas breakdown on the display is an illustrative calculation, **not calibrated gas-concentration measurement**.
 
-## Currently
+**Stack:** Arduino C++, UART, I2C, DHT11, DS3231, MQ135, TFT.
 
-Third year B.Sc. IT student. Looking for an online internship in embedded systems or IoT where I can work on actual projects. Open to collaboration on hardware projects too.
+## Other hands-on projects
 
-**Contact:** sai2chavan@gmail.com
+- **ESP32 BLE Gamepad:** Wireless HID controller prototype with touch inputs and haptic feedback.
+- **Remote Plant Watering:** ESP32, soil-moisture sensing, and Blynk-based remote pump control.
 
-**LinkedIn:** [linkedin.com/in/sai-santosh-chavan](https://www.linkedin.com/in/sai-santosh-chavan/)
+## Currently working toward
+
+- Building and deploying a **client-ready web development demo**.
+- Expanding my portfolio with clearly documented software and embedded projects.
+- Exploring **freelance web-development work**, embedded collaborations, and relevant internship opportunities while studying B.Sc. IT.
+
+## Contact
+
+- **Email:** [sai2chavan@gmail.com](mailto:sai2chavan@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sai-santosh-chavan](https://www.linkedin.com/in/sai-santosh-chavan/)
+- **GitHub:** [github.com/sai0336](https://github.com/sai0336)
+
+If you have a suitable project, feel free to reach out with the scope and requirements.
