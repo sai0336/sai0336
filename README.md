@@ -12,7 +12,7 @@ My work spans software and hardware: from front-end development to Bluetooth dev
 - **Python:** Scripts, automation, and application prototypes.
 - **Embedded systems:** ESP32/Arduino firmware prototypes, sensor integration, BLE, and IoT experiments.
 
-> **Portfolio status:** My public repositories currently showcase more embedded and Python work than client-ready websites. I'm building a dedicated web-development demo; I won't present unfinished work as a completed client project.
+> **Portfolio status:** My first web-development demo is deployed. NovaNest Academy is a fictional coaching-institute concept, **not** a paid client project. Its enquiry form demonstrates front-end validation only; it does not send messages.
 
 ## Technical skills
 
@@ -25,6 +25,12 @@ My work spans software and hardware: from front-end development to Bluetooth dev
 | IoT platforms | Blynk, ThingSpeak |
 
 ## Featured projects
+
+### [NovaNest Academy — Coaching Website Demo](https://novanest-academy-demo.vercel.app)
+
+A responsive, fictional coaching-institute website featuring course filtering, learning-method tabs, FAQs, and an accessible demonstration enquiry dialog. Built as a front-end portfolio project; no real admissions service is connected.
+
+**Live demo:** [novanest-academy-demo.vercel.app](https://novanest-academy-demo.vercel.app) · **Source:** [GitHub repository](https://github.com/sai0336/novanest-academy-demo) · **Stack:** React, Vite, Tailwind CSS.
 
 ### [Smart Glove — ESP32 BLE Mouse](https://github.com/sai0336/smart-glove-esp32)
 
@@ -51,7 +57,7 @@ Two-board Arduino project: a **Nano** reads a DHT11, DS3231 clock, and MQ135 ana
 
 ## Currently working toward
 
-- Building and deploying a **client-ready web development demo**.
+- Testing and improving my **deployed web-development demo**, including mobile usability, accessibility and performance.
 - Expanding my portfolio with clearly documented software and embedded projects.
 - Exploring **freelance web-development work**, embedded collaborations, and relevant internship opportunities while studying B.Sc. IT.
 
