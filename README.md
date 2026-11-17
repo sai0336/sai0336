@@ -32,6 +32,12 @@ A responsive, fictional coaching-institute website featuring course filtering, l
 
 **Live demo:** [novanest-academy-demo.vercel.app](https://novanest-academy-demo.vercel.app) · **Source:** [GitHub repository](https://github.com/sai0336/novanest-academy-demo) · **Stack:** React, Vite, Tailwind CSS.
 
+### [CyberSafe — Cyber Security Awareness CEP](https://cybersafe-cep-awareness.vercel.app)
+
+An educational Community Engagement Project website featuring **24 interactive cyber-safety activities**, quizzes, progress tracking, and practical awareness simulations. Built as a college project, not a commercial client website.
+
+**Live demo:** [cybersafe-cep-awareness.vercel.app](https://cybersafe-cep-awareness.vercel.app) · **Source:** [GitHub repository](https://github.com/sai0336/cybersafe-cep-awareness) · **Stack:** React, Vite, Tailwind CSS.
+
 ### [Smart Glove — ESP32 BLE Mouse](https://github.com/sai0336/smart-glove-esp32)
 
 Wearable motion-controlled mouse using **ESP32**, **MPU-6050**, and **BLE HID**. The firmware includes Air Mouse, 3D Lab, and Map Explorer modes, with digital button inputs and status LEDs.
